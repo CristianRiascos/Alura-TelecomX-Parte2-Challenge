@@ -13,7 +13,7 @@
 Mini proyecto con el objetivo de reforzar conocimientos aprendidos en la curso de Ciencia de Datos de Alura en relación a Machine Learning (ML). En este challenge se toma una empresa que ha tenido una pérdida de clientes, donde se deben de realizar análisis y modelos de predicción para determinar posibles causas que se puede considerar hacer para mantener y atraer a nuevos clientes.
 
 ## Estado del proyecto
-:construction: Proyecto en curso :construction:
+:dart: Proyecto finalizado :dart:
 
 ## Acceso al proyecto
 Debido a que existen gráficos dinámicos (Plotly), la visualización por medio de GitHub es incompleta. Para poder visualizar la totalidad del documento se debe de abrir el archivo "Challenge3.ipynb" y hacer click en "Open in Colab".
